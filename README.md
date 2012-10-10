@@ -1,6 +1,6 @@
 C-Programs
 ==========
 
-This repository contains simple C programs
+This repository contains some simple C programs
 
 Thank you
